@@ -1,3 +1,10 @@
+
+https://git.heroku.com/pacific-inlet-72839.git
+
+https://pacific-inlet-72839.herokuapp.com/
+
+
+
 Line Bot 基礎範例程式碼教學 (PHP) - 輕量版 LINEBotTiny.php
 ====================
 
