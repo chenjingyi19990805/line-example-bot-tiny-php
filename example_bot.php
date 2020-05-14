@@ -72,8 +72,8 @@ foreach ($client->parseEvents() as $event) {
                 'replyToken' => $event['replyToken'],
                 'messages' => array(
                     array(
-                        'type' => 'text',
-                        'text' => '您好，這是一個範例 Bot OuO
+                        'type' => 'text',"hello","hi","你好","嗨"
+                        'text' => '非常開心您能加入我們的會員~'  Bot OuO
 
 範例程式開源至 GitHub (包含教學)：
 https://github.com/GoneTone/line-example-bot-php'
@@ -87,7 +87,7 @@ https://github.com/GoneTone/line-example-bot-php'
                 'messages' => array(
                     array(
                         'type' => 'text',
-                        'text' => '大家好，這是一個範例 Bot OuO
+                        'text' => '群組測試' Bot OuO
 
 範例程式開源至 GitHub (包含教學)：
 https://github.com/GoneTone/line-example-bot-php'
